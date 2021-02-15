@@ -6,3 +6,6 @@ Eu acredito que você também deve ligar os dados de áudio do host. Você pode 
 adb emu avd hostmicon
 E para desligá-lo,
 adb emu avd hostmicoff
+
+tutorial
+https://aboutreact.com/speech-to-text-conversion-in-react-native-voice-recognition/
